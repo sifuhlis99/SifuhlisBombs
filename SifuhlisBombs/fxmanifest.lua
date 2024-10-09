@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Sifuhlis@CalibreRoleplay'
-description 'Bomb arming and disarming via the ox_lib skillcheck thingy mabob'
+description 'Bomb arming and disarming with silly lil disarming mini-game'
 version '1.0.0'
 
 lua54 'yes' -- Enable Lua 5.4
